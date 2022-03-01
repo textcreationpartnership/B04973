@@ -1,0 +1,465 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Renowned Robin Hood. Or, His famous archery truly related, with the worthy exploits he acted before Queen Katherine, he being an outlaw-man, and how she for the same obtained of the king, his own, and his fellows pardon. To a new tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663-1674?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04973</idno>
+            <idno type="STC">Wing R1039D</idno>
+            <idno type="STC">ESTC R182633</idno>
+            <idno type="EEBO-CITATION">47012612</idno>
+            <idno type="OCLC">ocm 47012612</idno>
+            <idno type="VID">174578</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174578)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2692:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Renowned Robin Hood. Or, His famous archery truly related, with the worthy exploits he acted before Queen Katherine, he being an outlaw-man, and how she for the same obtained of the king, his own, and his fellows pardon. To a new tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, and I. Wright.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[between 1663 and 1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 2 illustrations.</note>
+                  <note>Right half-sheet contains: The second part, to the same tune.</note>
+                  <note>Date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Robin Hood (Legendary character) --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174578:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>Renowned Robin Hood.</head>
+            <argument>
+               <p>Or, His famous Archery truly Related, with the worthy Exploits he Acted before Queen Ka<g ref="char:EOLhyphen"/>therine, he being an Outlaw-man, and how ſhe for the ſame obtained of the King, his own, and his follows pardon.</p>
+            </argument>
+            <opener>To a New Tune.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>GOld tane from y<hi rend="sup">e</hi> Kings Harbengers?</l>
+                  <l>
+                     <hi>down a down a down.</hi>
+                  </l>
+                  <l>As ſeldoms hath béen ſeen,</l>
+                  <l>
+                     <hi>down a down a down.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And carried by bold <hi>Robin Hood</hi>
+                  </l>
+                  <l>for a preſent to the Queen.</l>
+                  <l>
+                     <hi>down a down a down.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>If that I live an year to an end.</l>
+                  <l>thus gan Quéen <hi>Katherine</hi> ſay,</l>
+                  <l>Bold <hi>Robin Hood</hi> I will be thy friend,</l>
+                  <l>and all thy Yeomen gay.</l>
+               </lg>
+               <lg>
+                  <l>The Quéen is to her Chamber gone</l>
+                  <l>as faſt as ſhe can wen,</l>
+                  <l>She calls unto her lovely Pages,</l>
+                  <l>his name was <hi>Richard Patrington.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Come hither to me thou lovely Page,</l>
+                  <l>come thou hither to me:</l>
+                  <l>For thou muſt Poſt to <hi>Nottingham</hi>
+                  </l>
+                  <l>as faſt as thou canſt drée.</l>
+               </lg>
+               <lg>
+                  <l>And as thou goeſt to <hi>Nottingham,</hi>
+                  </l>
+                  <l>ſearch all thoſe <hi>Engliſh</hi> Wood,</l>
+                  <l>Enquire of one good Yeoman or another,</l>
+                  <l>that can tell thée of <hi>Robin Hood.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Sometimes he went, ſometimes he ran</l>
+                  <l>as faſt as he could wen.</l>
+                  <l>And when he came to <hi>Nottingham,</hi>
+                  </l>
+                  <l>there he took up his <hi>Inn.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And when he came to <hi>Nottingham,</hi>
+                  </l>
+                  <l>and had took up his <hi>Inn,</hi>
+                  </l>
+                  <l>He calls for a pottle of Rheniſh Wine</l>
+                  <l>and drinks a health to his Quéen.</l>
+               </lg>
+               <lg>
+                  <l>There ſat a Yeoman by his ſide,</l>
+                  <l>tell me ſwéet Page ſaid he,</l>
+                  <l>What is thy buſineſs, or the cauſe,</l>
+                  <l>ſo far in the North Country.</l>
+               </lg>
+               <lg>
+                  <l>This is my buſineſs, and the cauſe,</l>
+                  <l>fir, I'le tell it you for good.</l>
+                  <l>To inquire of one good Yeoman or another,</l>
+                  <l>to tell me of <hi>Robin Hood.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Ile get my horſe betime in the morn,</l>
+                  <l>by it be break of day,</l>
+                  <l>And <hi>I</hi> will ſhew thée bold <hi>Robin Hood,</hi>
+                  </l>
+                  <l>and all his Yeomen gay.</l>
+               </lg>
+               <lg>
+                  <l>When that he came at <hi>Robin Hoods</hi> place,</l>
+                  <l>he tell down on his knée:</l>
+                  <l>Quéen <hi>Katherine</hi> ſhe doth gréet you well,</l>
+                  <l>ſhe gréets you well by me.</l>
+               </lg>
+               <lg>
+                  <l>She bids you poſt to fair <hi>London</hi> Court.</l>
+                  <l>not fearing any thing,</l>
+                  <l>For there ſhall be a little ſport</l>
+                  <l>and ſhe hath ſent you her King.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Robin</hi> took his Mantle from his back,</l>
+                  <l>it was of the Lincoln gréen,</l>
+                  <l>And ſent it by this lovely Page</l>
+                  <l>for a preſent to the Quéen.</l>
+               </lg>
+               <lg>
+                  <l>In Summer time when leaves grow gréen</l>
+                  <l>it is a ſéemly ſight to ſée,</l>
+                  <l>How <hi>Robin Hood</hi> himſelf had dreſt</l>
+                  <l>and all his Yeomandrée.</l>
+               </lg>
+               <lg>
+                  <l>He cloathed his men in Lincoln gréen,</l>
+                  <l>and himſelf in ſcarlet red,</l>
+                  <l>Black hats, white feathers all alike,</l>
+                  <l>now bold <hi>Robin Hood</hi> is Rid.</l>
+               </lg>
+               <lg>
+                  <l>And when he came at <hi>Londons</hi> Court,</l>
+                  <l>he fell down on his knée,</l>
+                  <l>Thou art welcom <hi>Lockſly</hi> ſaid the Quéen,</l>
+                  <l>and all thy Yeomen thrée.</l>
+               </lg>
+               <lg>
+                  <l>The King is into <hi>Finsbury</hi> field,</l>
+                  <l>
+                     <hi>down a down a down.</hi>
+                  </l>
+                  <l>Marching in battle ray,</l>
+                  <l>
+                     <hi>down a down a down.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And after follows bold <hi>Robin Hood</hi>
+                  </l>
+                  <l>and all his Yeomen gay.</l>
+                  <l>
+                     <hi>down a down a down.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part,</head>
+               <opener>To the ſame Tune.</opener>
+               <lg>
+                  <l>COme hither <hi>Tepus,</hi> ſaid the King,</l>
+                  <l>
+                     <hi>down a down a down,</hi>
+                  </l>
+                  <l>Bow-bearer after me,</l>
+                  <l>
+                     <hi>down a down a down,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Come meaſure me out with this line</l>
+                  <l>how long our mark ſhall be.</l>
+                  <l>
+                     <hi>down a down a down.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>What is the Wager ſaid the Quéen?</l>
+                  <l>that muſt I now know here,</l>
+                  <l>Thrée hundred Tun of Rheniſh Wine</l>
+                  <l>thrée hundred tun of Béer.</l>
+               </lg>
+               <lg>
+                  <l>Thrée hundred of the fatteſt Harts</l>
+                  <l>that run on <hi>Dallom</hi> Lée,</l>
+                  <l>That's a Princely Wager, ſaid the King</l>
+                  <l>that néeds muſt I tell thée.</l>
+               </lg>
+               <lg>
+                  <l>With that beſpake one <hi>Clifton</hi> then</l>
+                  <l>full quickly and full ſoon,</l>
+                  <l>Meaſure no Mark for us moſt Soveraign Leige</l>
+                  <l>wée'l ſhoot at Sun and Moon.</l>
+               </lg>
+               <lg>
+                  <l>Full fiftéen ſcore your Mark ſhall be,</l>
+                  <l>full fiftéen ſcore ſhall ſtand,</l>
+                  <l>Ile lay my Bow, ſaid <hi>Clifton</hi> then,</l>
+                  <l>I'le cleave the <hi>Willow</hi> Wand.</l>
+               </lg>
+               <lg>
+                  <l>With that the Kings Archers led about</l>
+                  <l>while it was thrée and none,</l>
+                  <l>With that the Ladies began to ſhout,</l>
+                  <l>Madam, your Game is gone.</l>
+               </lg>
+               <lg>
+                  <l>A boon, a boon, Quéen <hi>Katherine</hi> cryes,</l>
+                  <l>I crave on my bare knée,</l>
+                  <l>Is there any Knight of your privy Counſel</l>
+                  <l>on Quéen <hi>Katherines</hi> part will be?</l>
+               </lg>
+               <lg>
+                  <l>Come hither to me ſir <hi>Richard Lee,</hi>
+                  </l>
+                  <l>thou art a Knight full good,</l>
+                  <l>For <hi>I</hi> do know by thy pedigrée,</l>
+                  <l>thou ſprang'ſt from <hi>Gowers</hi> blood.</l>
+               </lg>
+               <lg>
+                  <l>Come hither to me thou Biſhop of <hi>Here-fordſhire,</hi>
+                  </l>
+                  <l>for a noble Prieſt was he,</l>
+                  <l>By my ſilver Miter, ſaid the Biſhop then</l>
+                  <l>I'le not bet one penny.</l>
+               </lg>
+               <lg>
+                  <l>The King hath Archers of his own,</l>
+                  <l>full ready and full light,</l>
+                  <l>And theſe be ſtrangers every one,</l>
+                  <l>no man knows what they height.</l>
+               </lg>
+               <lg>
+                  <l>What wilt thou bet ſaid <hi>Robin Hood</hi>
+                  </l>
+                  <l>thou ſéeſt our Games the worſe,</l>
+                  <l>By my ſilver Miter, ſaid the Biſhop then</l>
+                  <l>all the Money within my purſe.</l>
+               </lg>
+               <lg>
+                  <l>What is in thy purſe, ſaid <hi>Robin Hood,</hi>
+                  </l>
+                  <l>throw it down on the ground,</l>
+                  <l>Fiftéen ſcore Nobles, ſaid the Biſhop then</l>
+                  <l>its near an hundred pound.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Robin Hood</hi> took his bag from his ſide</l>
+                  <l>and threw it down on the gréen:</l>
+                  <l>
+                     <hi>William Scadlock</hi> went ſmiling away,</l>
+                  <l>I know who this money muſt win.</l>
+               </lg>
+               <lg>
+                  <l>With that the Kings Archers led about,</l>
+                  <l>while it was thrée and thrée,</l>
+                  <l>With that the Ladies gave a ſhout,</l>
+                  <l>
+                     <hi>Woodcock</hi> beware thy knée.</l>
+               </lg>
+               <lg>
+                  <l>It is thrée, and thrée, now ſaid the King,</l>
+                  <l>the next thrée payes for all:</l>
+                  <l>
+                     <hi>Robin Hood</hi> went and whiſpered to y<hi rend="sup">t</hi> Quéen</l>
+                  <l>the Kings part ſhall be but ſmall.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Robin Hood</hi> he led about,</l>
+                  <l>he ſent it under-hand,</l>
+                  <l>And <hi>Clifton</hi> with a bearing Arrow</l>
+                  <l>he clave the Willow wand.</l>
+               </lg>
+               <lg>
+                  <l>And little <hi>Midge</hi> the Millers ſon,</l>
+                  <l>he ſhot not much the worſe,</l>
+                  <l>He ſhot within a ſinger of the prick</l>
+                  <l>now Biſhop beware thy purſe.</l>
+               </lg>
+               <lg>
+                  <l>A boon, a boon, Quéen <hi>Katherine</hi> cries</l>
+                  <l>I crave that on my bare knée,</l>
+                  <l>That you will angry be with none,</l>
+                  <l>that is at my party.</l>
+               </lg>
+               <lg>
+                  <l>They ſhall have forty days to come,</l>
+                  <l>end forty days to go.</l>
+                  <l>And thrée times forty to ſport and play</l>
+                  <l>then welcome every one.</l>
+               </lg>
+               <lg>
+                  <l>Then thou art welcome <hi>Robin Hood</hi> ſaid y<hi rend="sup">e</hi> Quéen,</l>
+                  <l>and ſo is little <hi>John,</hi>
+                  </l>
+                  <l>So is <hi>Midge</hi> the Millers Son,</l>
+                  <l>thrice welcome every one.</l>
+               </lg>
+               <lg>
+                  <l>Is this <hi>Robin Hood</hi> the King <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>w ſaid?</l>
+                  <l>for it was told to me,</l>
+                  <l>That he was ſlain in the Pallace gate,</l>
+                  <l>ſo far in the North Country.</l>
+               </lg>
+               <lg>
+                  <l>Is this <hi>Robin Hood,</hi> quoth y<hi rend="sup">e</hi> Biſhop then</l>
+                  <l>as I ſée well to be,</l>
+                  <l>Had <hi>I</hi> known that had béen that bold Out-law</l>
+                  <l>
+                     <hi>I</hi> would not a bet one penny.</l>
+               </lg>
+               <lg>
+                  <l>He took me late on <hi>Saturday</hi> at night,</l>
+                  <l>and bound me faſt to a trée,</l>
+                  <l>And made me ſing a <hi>Maſſe</hi> God wot,</l>
+                  <l>to him and his Yeomen thrée.</l>
+               </lg>
+               <lg>
+                  <l>What and if <hi>I</hi> did, ſays <hi>Robin Hood,</hi>
+                  </l>
+                  <l>of that <hi>Maſſe I</hi> was full fain;</l>
+                  <l>For recompence to thée he ſays</l>
+                  <l>here's half thy Gold again.</l>
+               </lg>
+               <lg>
+                  <l>Now nay, now nay, ſays little <hi>John,</hi>
+                  </l>
+                  <l>
+                     <hi>down a down a down.</hi>
+                  </l>
+                  <l>Maſter that may not be,</l>
+                  <l>
+                     <hi>down a down a down.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>We muſt give gifts to the Kings Officers</l>
+                  <l>that Gold will ſerve thée and me.</l>
+                  <l>
+                     <hi>down a down a down.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for F. Coles, T. Vere, and I. Wright.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
